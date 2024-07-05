@@ -1,6 +1,6 @@
 # Hello, I'm Ștefan 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/tacudarius)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tacudarius)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=google-chrome&logoColor=white)](https://yourportfolio.com) -->
 
 Welcome to my GitHub profile! I am a passionate Computer Science student with a love for software development. 
